@@ -1,11 +1,11 @@
-#include <stdio.h>
+#include <unistd.h>
 /**
  * main - Entry point
- * use write function
- * Reatur: Always 0 (success)
+ * Reaturn: Always 1 (success)
  */
 int main(void)
 {
-	char str1[]="and that piece of art is useful\" - Dora Korpar, 2015-10-19";
+	char str1[]="and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
+	write(2, stri1, 59);
 	return (1);
 }

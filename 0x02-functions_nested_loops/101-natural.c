@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - prints natural numbers below 1024 which are multiples of 3 or 5
+ * main - print natural numbers below 1024 that are multiples of 3 or 5
  *
- * Return: Always 0
+ * Return: Always o.
  */
 int main(void)
 {

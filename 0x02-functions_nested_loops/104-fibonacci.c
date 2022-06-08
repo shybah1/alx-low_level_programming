@@ -44,6 +44,6 @@ int main(void)
 		if (((n1 + n2) < 0) && boolean == 1)
 			boolean = 0;
 	}
-	print("\n");
+	printf("\n");
 	return (0);
 }

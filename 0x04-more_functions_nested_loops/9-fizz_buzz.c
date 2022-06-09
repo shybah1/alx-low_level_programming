@@ -1,4 +1,4 @@
-#include "main.h"
+#include <stdio.h>
 /**
  * main - prints numbers from 0 t0 100, print buzz when number is
  * is multiple of 5 fizz when it is multiple of 3 and fizzbuzz if

@@ -2,8 +2,8 @@
 #include <stdio.h>
 /**
  * infinite_add - adds two numbers
- * @n1: first one.
- * @n2: second two.
+ * @n1: number one.
+ * @n2: number two.
  * @r: buffer that the function will use to store the result.
  * @size_r: buffer size:
  * Return: the pointer to dest.
